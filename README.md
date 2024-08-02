@@ -1,5 +1,7 @@
 This project is a Java implementation of the classic board game Checkers, developed as a final project for a Java programming course. It features a graphical user interface using Swing, game state management, and unit tests.
 
+![image](https://github.com/user-attachments/assets/683809b0-d5ff-4ce8-ad38-fe7f667bf76a)
+
 ## Features
 Complete implementation of Checkers game rules
 
@@ -35,8 +37,6 @@ Clone this repository
 Compile the Java files
 
 Run the Game class to start the application
-
-![image](https://github.com/user-attachments/assets/683809b0-d5ff-4ce8-ad38-fe7f667bf76a)
 
 ## Testing
 Unit tests are provided in the CheckersBoardTest and CheckersMoveTest classes. These tests cover core game logic such as board setup, move legality, and game state management.
