@@ -36,6 +36,8 @@ Compile the Java files
 
 Run the Game class to start the application
 
+![image](https://github.com/user-attachments/assets/683809b0-d5ff-4ce8-ad38-fe7f667bf76a)
+
 ## Testing
 Unit tests are provided in the CheckersBoardTest and CheckersMoveTest classes. These tests cover core game logic such as board setup, move legality, and game state management.
 
